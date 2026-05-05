@@ -62,36 +62,60 @@ Passionné par la qualité du code, les architectures évolutives et les solutio
 
 ## 🚀 Projets & Réalisations
 
-### E-Commerce Magento
+### ⭐ Projets Phares — Grandes Marques
+
+| Projet | Marque | Stack | Description |
+|--------|--------|-------|-------------|
+| [autohall.ma](https://www.autohall.ma) | **Auto Hall** | Symfony / Twig | Leader distribution automobile au Maroc — site corporate & catalogue |
+| [byd-maroc.com](https://www.byd-maroc.com) | **BYD Maroc** | Symfony / Vue.js | Véhicules électriques — configurateur, calculateur d'autonomie, Owl Carousel |
+| [jetour-ma.com](https://jetour-ma.com) | **Jetour Maroc** | Symfony / Twig | Viewer 360°, hotspots interactifs, Turbo Drive, switch couleurs |
+| [hyundai.ma](https://www.hyundai.ma) | **Hyundai Maroc** | Web | Site officiel Hyundai Maroc |
+| [nestlemaghreb.com](https://www.nestlemaghreb.com) | **Nestlé** | Web | Site institutionnel Nestlé Maghreb |
+| [bricoma.ma](https://www.bricoma.ma) | **Bricoma** | Magento | E-commerce bricolage & aménagement |
+| [ctm-messagerie.ma](https://www.ctm-messagerie.ma) | **CTM** | Web | Plateforme messagerie & transport |
+| [casatramway.ma](https://casatramway.ma) | **Casa Tramway** | Symfony | Système de billetterie en ligne |
+
+---
+
+### 📱 Applications Mobiles
+
+| Application | Store | Description |
+|-------------|-------|-------------|
+| **Facop Peinture** | [Google Play](https://play.google.com/store/search?q=facop+peinture&c=apps&hl=fr) | Application mobile marque peinture |
+| **Bricoma** | [Google Play](https://play.google.com/store/search?q=bricoma&c=apps&hl=fr) | Application mobile e-commerce bricolage |
+| **Gestion Cabinet Dentaire** | Application métier | CRM & gestion de cabinet dentaire (agenda, patients, facturation) |
+
+---
+
+### 🛒 E-Commerce
+
 | Projet | Description |
 |--------|-------------|
 | [twig.ci](https://www.twig.ci) | Plateforme e-commerce Magento |
 | [myhair.ma](https://www.myhair.ma) | E-commerce beauté & cosmétiques |
 | [offretenjoy.ma](https://www.offretenjoy.ma) | Site d'offres et loisirs |
 | [popcorn.ma](https://www.popcorn.ma) | E-commerce multi-catégories |
-| [bricoma.ma](https://www.bricoma.ma) | Bricolage & aménagement |
 
-### Sites Institutionnels & Corporate
+### 🏢 Sites Institutionnels & Corporate
+
 | Projet | Description |
 |--------|-------------|
-| [hyundai.ma](https://www.hyundai.ma) | Site officiel Hyundai Maroc |
-| [nestlemaghreb.com](https://www.nestlemaghreb.com) | Nestlé Maghreb |
 | [espacessaada.com](https://www.espacessaada.com) | Immobilier — Espaces Saada |
-| [ctm-messagerie.ma](https://www.ctm-messagerie.ma) | CTM Messagerie |
 | [meteomaroc.com](https://www.meteomaroc.com) | Météo Maroc |
 | [almav-logistics.com](https://www.almav-logistics.com) | Logistique & transport |
 | [elevenmedia.ma](https://www.elevenmedia.ma) | Site de l'agence Eleven Media |
 
-### Applications & CRM Métier
+### 💻 Applications & CRM Métier
+
 | Projet | Description |
 |--------|-------------|
-| [casatramway.ma](https://casatramway.ma) | Billetterie en ligne Casablanca Tramway |
 | [ideaplus.ma](https://ideaplus.ma) | Application web métier |
 | [enorm.onssa.gov.ma](https://enorm.onssa.gov.ma) | Plateforme gouvernementale ONSSA |
 | [sanili.ma](https://sanili.ma) | Application santé |
 | [topclass.ma](https://topclass.ma) | Plateforme e-learning |
 
-### Sécurité & Consultation
+### 🔒 Sécurité & Consultation
+
 | Projet | Description |
 |--------|-------------|
 | [iseconsult.com](https://www.iseconsult.com) | Cabinet de conseil en sécurité |
@@ -161,7 +185,7 @@ Passionné par la qualité du code, les architectures évolutives et les solutio
 
 <div align="center">
 
-**15+ ans d'expérience** • **50+ projets livrés** • **Full Stack PHP/Java**
+**15+ ans d'expérience** • **60+ projets livrés** • **Web · Mobile · CRM**
 
 *« Du concept à la mise en production — des solutions web fiables pour des clients exigeants »*
 
