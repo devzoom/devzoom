@@ -59,7 +59,7 @@ Passionné par la qualité du code, les architectures évolutives et les solutio
 
 <div align="center">
 
-**15+ ans d'expérience** • **60+ projets livrés** • **Web · Mobile · CRM**
+**16+ ans d'expérience** • **180+ projets livrés** • **Web · Mobile · CRM**
 
 *« Du concept à la mise en production — des solutions web fiables pour des clients exigeants »*
 
